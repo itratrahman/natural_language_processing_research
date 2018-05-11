@@ -121,3 +121,6 @@ ENV/
 
 # zip file
 *.zip
+
+# word2vec_model
+*.model
